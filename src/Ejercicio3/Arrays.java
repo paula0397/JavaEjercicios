@@ -12,7 +12,7 @@ public class Arrays {
         /*acceder a un elemento por su indice*/
         System.out.println(nombres[0]);
 
-        /*descomentar y ver que sucede accediendo a una posicion fuera de rango*/
+
         //System.out.println(nombres[7]);
 
         /*recorrer un array con un ciclo for*/
