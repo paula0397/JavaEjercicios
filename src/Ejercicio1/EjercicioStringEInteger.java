@@ -1,3 +1,5 @@
+package Ejercicio1;
+
 public class EjercicioStringEInteger {
     public static void main(String[] args) {
 
